@@ -10,4 +10,8 @@ sudo chmod +x pythonOpenCV.py && ./pythonOpenCV.py
 install Visual studio </br>
 install CMAKE </br>
 install pip </br>
+install NumPy 
+```
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+```
 install OpencCV </br>
