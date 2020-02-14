@@ -18,5 +18,3 @@ Install OpencCV
 ```
 python -m pip install --user opencv-python
 ```
-## the Code
-[gist]http://gist.github.com/546764[/gist]
