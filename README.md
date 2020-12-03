@@ -1,6 +1,6 @@
 ![Image description](https://github.com/salhina/PythonOpenCV/blob/master/pythonOpenCV.png)
 # Python & OpenCV
-```c
+```Bash
 cd /home/pi/Documents/ && git clone https://github.com/salhina/PythonOpenCV
 cd PythonOpenCV 
 sudo chmod +x pythonOpenCV.py && ./pythonOpenCV.py 
@@ -11,10 +11,10 @@ Install Visual studio </br>
 Install CMAKE </br>
 Install pip </br>
 Install NumPy 
-```python
+```Bash
 python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 ```
 Install OpencCV
-```python
+```Bash
 python -m pip install --user opencv-python
 ```
